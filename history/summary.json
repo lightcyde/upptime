@@ -5,7 +5,15 @@
     "slug": "light-cyde",
     "status": "up",
     "uptime": "100.00",
-    "time": 800
+    "time": 812
+  },
+  {
+    "name": "Cultour",
+    "url": "https://cultour.digital",
+    "slug": "cultour",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 776
   },
   {
     "name": "Dveri Pax AT",
@@ -13,7 +21,7 @@
     "slug": "dveri-pax-at",
     "status": "up",
     "uptime": "100.00",
-    "time": 885
+    "time": 954
   },
   {
     "name": "Dveri Pax SI",
@@ -21,7 +29,7 @@
     "slug": "dveri-pax-si",
     "status": "up",
     "uptime": "100.00",
-    "time": 1977
+    "time": 1810
   },
   {
     "name": "Admonter",
@@ -29,7 +37,7 @@
     "slug": "admonter",
     "status": "up",
     "uptime": "100.00",
-    "time": 1137
+    "time": 993
   },
   {
     "name": "Admonter Shop",
@@ -37,6 +45,30 @@
     "slug": "admonter-shop",
     "status": "up",
     "uptime": "100.00",
-    "time": 827
+    "time": 789
+  },
+  {
+    "name": "Mission Austria",
+    "url": "https://mission-austria.at",
+    "slug": "mission-austria",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 793
+  },
+  {
+    "name": "Gesäuse",
+    "url": "https://gesaeuse.at",
+    "slug": "gesaeuse",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2452
+  },
+  {
+    "name": "Gesäuse Partner",
+    "url": "https://partner.gesaeuse.at",
+    "slug": "gesaeuse-partner",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1927
   }
 ]
