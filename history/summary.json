@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "LightCyde",
+    "url": "https://lightcyde.agency",
+    "slug": "light-cyde",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 800
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "Dveri Pax AT",
+    "url": "https://dveri-pax.at",
+    "slug": "dveri-pax-at",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 885
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "Dveri Pax SI",
+    "url": "https://dveri-pax.si",
+    "slug": "dveri-pax-si",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1977
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "Admonter",
+    "url": "https://admonter.com",
+    "slug": "admonter",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 1137
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "Admonter Shop",
+    "url": "https://shop.admonter.com",
+    "slug": "admonter-shop",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 827
   }
 ]
