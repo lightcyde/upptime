@@ -67,8 +67,8 @@
     "name": "Gesäuse Partner",
     "url": "https://partner.gesaeuse.at",
     "slug": "gesaeuse-partner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1011
+    "time": 957
   }
 ]
