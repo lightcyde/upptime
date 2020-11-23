@@ -1,7 +1,7 @@
 url: https://partner.gesaeuse.at  
-status: down
-code: 503
-responseTime: 691
-lastUpdated: 2020-11-23T09:35:05.618Z
+status: up
+code: 200
+responseTime: 1687
+lastUpdated: 2020-11-23T09:44:36.118Z
 startTime: Thu Nov 19 2020 20:55:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
