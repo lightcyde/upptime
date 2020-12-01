@@ -5,7 +5,7 @@
     "slug": "light-cyde",
     "status": "up",
     "uptime": "100.00%",
-    "time": 833
+    "time": 872
   },
   {
     "name": "Cultour",
@@ -13,7 +13,7 @@
     "slug": "cultour",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1038
+    "time": 1013
   },
   {
     "name": "Dveri Pax AT",
@@ -21,15 +21,15 @@
     "slug": "dveri-pax-at",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1093
+    "time": 1081
   },
   {
     "name": "Dveri Pax SI",
     "url": "https://dveri-pax.si",
     "slug": "dveri-pax-si",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 1054
+    "uptime": "99.99%",
+    "time": 1041
   },
   {
     "name": "Admonter",
@@ -37,7 +37,7 @@
     "slug": "admonter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1032
+    "time": 1020
   },
   {
     "name": "Admonter Shop",
@@ -45,7 +45,7 @@
     "slug": "admonter-shop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 883
+    "time": 874
   },
   {
     "name": "Mission Austria",
@@ -53,7 +53,7 @@
     "slug": "mission-austria",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1081
+    "time": 1265
   },
   {
     "name": "Gesäuse",
@@ -61,7 +61,7 @@
     "slug": "gesaeuse",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3689
+    "time": 3769
   },
   {
     "name": "Gesäuse Partner",
@@ -69,6 +69,6 @@
     "slug": "gesaeuse-partner",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1363
+    "time": 1715
   }
 ]
