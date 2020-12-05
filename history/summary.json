@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 1814,
-    "timeWeek": 1012,
-    "timeMonth": 907,
-    "timeYear": 907
+    "time": 899,
+    "timeDay": 749,
+    "timeWeek": 1033,
+    "timeMonth": 899,
+    "timeYear": 899
   },
   {
     "name": "Cultour",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 964,
-    "timeWeek": 1114,
-    "timeMonth": 980,
-    "timeYear": 980
+    "time": 969,
+    "timeDay": 794,
+    "timeWeek": 1111,
+    "timeMonth": 969,
+    "timeYear": 969
   },
   {
     "name": "Dveri Pax AT",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1073,
-    "timeDay": 1166,
-    "timeWeek": 1103,
-    "timeMonth": 1073,
-    "timeYear": 1073
+    "time": 1063,
+    "timeDay": 896,
+    "timeWeek": 1114,
+    "timeMonth": 1063,
+    "timeYear": 1063
   },
   {
     "name": "Dveri Pax SI",
@@ -54,14 +54,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1079,
-    "timeDay": 960,
-    "timeWeek": 1064,
-    "timeMonth": 1079,
-    "timeYear": 1079
+    "time": 1066,
+    "timeDay": 847,
+    "timeWeek": 1091,
+    "timeMonth": 1066,
+    "timeYear": 1066
   },
   {
     "name": "Admonter",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1061,
-    "timeWeek": 983,
-    "timeMonth": 1016,
-    "timeYear": 1016
+    "time": 1011,
+    "timeDay": 925,
+    "timeWeek": 996,
+    "timeMonth": 1011,
+    "timeYear": 1011
   },
   {
     "name": "Admonter Shop",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 958,
-    "timeWeek": 857,
-    "timeMonth": 875,
-    "timeYear": 875
+    "time": 869,
+    "timeDay": 781,
+    "timeWeek": 867,
+    "timeMonth": 869,
+    "timeYear": 869
   },
   {
     "name": "Mission Austria",
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1330,
-    "timeDay": 3103,
-    "timeWeek": 1580,
-    "timeMonth": 1330,
-    "timeYear": 1330
+    "time": 1304,
+    "timeDay": 889,
+    "timeWeek": 1604,
+    "timeMonth": 1304,
+    "timeYear": 1304
   },
   {
     "name": "Gesäuse",
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3664,
-    "timeDay": 3087,
-    "timeWeek": 3421,
-    "timeMonth": 3664,
-    "timeYear": 3664
+    "time": 3679,
+    "timeDay": 3935,
+    "timeWeek": 3603,
+    "timeMonth": 3679,
+    "timeYear": 3679
   },
   {
     "name": "Gesäuse Partner",
@@ -137,10 +137,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1986,
-    "timeDay": 8740,
-    "timeWeek": 2729,
-    "timeMonth": 1986,
-    "timeYear": 1986
+    "time": 1922,
+    "timeDay": 763,
+    "timeWeek": 2727,
+    "timeMonth": 1922,
+    "timeYear": 1922
   }
 ]
