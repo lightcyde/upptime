@@ -4,10 +4,10 @@
     "url": "https://lightcyde.agency",
     "icon": "https://favicons.githubusercontent.com/lightcyde.agency",
     "slug": "light-cyde",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 880,
@@ -15,7 +15,9 @@
     "timeWeek": 857,
     "timeMonth": 880,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-15": 1
+    }
   },
   {
     "name": "Cultour",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/dveri-pax.at",
     "slug": "dveri-pax-at",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1103,
     "timeDay": 945,
     "timeWeek": 1221,
     "timeMonth": 1103,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2020-12-15": 6
+      "2020-12-15": 33
     }
   },
   {
@@ -116,7 +118,7 @@
     "url": "https://mission-austria.at",
     "icon": "https://favicons.githubusercontent.com/mission-austria.at",
     "slug": "mission-austria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -134,7 +136,7 @@
     "url": "https://gesaeuse.at",
     "icon": "https://favicons.githubusercontent.com/gesaeuse.at",
     "slug": "gesaeuse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -152,9 +154,9 @@
     "url": "https://partner.gesaeuse.at",
     "icon": "https://favicons.githubusercontent.com/partner.gesaeuse.at",
     "slug": "gesaeuse-partner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,6 +165,8 @@
     "timeWeek": 1576,
     "timeMonth": 1741,
     "timeYear": 1741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-15": 0
+    }
   }
 ]
