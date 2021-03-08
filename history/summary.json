@@ -13,7 +13,7 @@
     "time": 774,
     "timeDay": 677,
     "timeWeek": 785,
-    "timeMonth": 751,
+    "timeMonth": 753,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2020-12-15": 58
@@ -33,7 +33,7 @@
     "time": 1014,
     "timeDay": 2735,
     "timeWeek": 1502,
-    "timeMonth": 1132,
+    "timeMonth": 1145,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2021-01-05": 760,
@@ -67,7 +67,7 @@
     "time": 1132,
     "timeDay": 866,
     "timeWeek": 923,
-    "timeMonth": 951,
+    "timeMonth": 942,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2020-12-15": 91
@@ -87,7 +87,7 @@
     "time": 958,
     "timeDay": 779,
     "timeWeek": 763,
-    "timeMonth": 804,
+    "timeMonth": 805,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2020-11-27": 2
@@ -107,7 +107,7 @@
     "time": 911,
     "timeDay": 859,
     "timeWeek": 837,
-    "timeMonth": 864,
+    "timeMonth": 865,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2020-12-18": 565,
@@ -128,7 +128,7 @@
     "time": 820,
     "timeDay": 831,
     "timeWeek": 819,
-    "timeMonth": 832,
+    "timeMonth": 833,
     "timeYear": 820,
     "dailyMinutesDown": {}
   },
@@ -146,7 +146,7 @@
     "time": 1067,
     "timeDay": 796,
     "timeWeek": 1021,
-    "timeMonth": 1075,
+    "timeMonth": 1084,
     "timeYear": 1067,
     "dailyMinutesDown": {}
   },
@@ -155,19 +155,19 @@
     "url": "https://gesaeuse.at",
     "icon": "https://favicons.githubusercontent.com/gesaeuse.at",
     "slug": "gesaeuse",
-    "status": "down",
-    "uptime": "97.05%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.05%",
-    "time": 3747,
-    "timeDay": 0,
-    "timeWeek": 3359,
-    "timeMonth": 3275,
-    "timeYear": 3747,
+    "status": "up",
+    "uptime": "97.04%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "97.04%",
+    "time": 3740,
+    "timeDay": 2619,
+    "timeWeek": 3253,
+    "timeMonth": 3241,
+    "timeYear": 3740,
     "dailyMinutesDown": {
-      "2021-03-08": 0,
+      "2021-03-08": 15,
       "2021-01-13": 431,
       "2021-01-12": 196,
       "2021-01-10": 40,
@@ -193,7 +193,7 @@
     "time": 1433,
     "timeDay": 700,
     "timeWeek": 1577,
-    "timeMonth": 1277,
+    "timeMonth": 1293,
     "timeYear": 1433,
     "dailyMinutesDown": {
       "2020-12-15": 58
