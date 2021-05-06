@@ -139,10 +139,10 @@
     "url": "https://mission-austria.at",
     "icon": "https://favicons.githubusercontent.com/mission-austria.at",
     "slug": "mission-austria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1048,
@@ -150,16 +150,18 @@
     "timeWeek": 1134,
     "timeMonth": 1065,
     "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-06": 1
+    }
   },
   {
     "name": "Gesäuse",
     "url": "https://gesaeuse.at",
     "icon": "https://favicons.githubusercontent.com/gesaeuse.at",
     "slug": "gesaeuse",
-    "status": "up",
+    "status": "down",
     "uptime": "96.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.25%",
@@ -169,6 +171,7 @@
     "timeMonth": 4566,
     "timeYear": 3839,
     "dailyMinutesDown": {
+      "2021-05-06": 0,
       "2021-03-11": 926,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
