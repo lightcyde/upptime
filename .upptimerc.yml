@@ -50,7 +50,7 @@ status-website:
   cname: status.lightcyde.agency
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://lightcyde.agency/wp-content/uploads/lightcyde-logo-square.png
+  logoUrl: https://cdn.lightcyde.agency/static-assets/images/lightcyde-logo-square-notext.svg
   name: LightCyde Status
   navbar:
     - title: Status
