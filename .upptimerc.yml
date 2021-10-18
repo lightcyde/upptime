@@ -6,22 +6,40 @@ repo: upptime # Your Github repository name
 sites:
   - name: LightCyde
     url: https://lightcyde.agency
-  - name: Cultour
-    url: https://cultour.digital
+  - name: Discover Culture
+    url: https://discover-culture.com
   - name: Dveri Pax AT
     url: https://dveri-pax.at
   - name: Dveri Pax SI
     url: https://dveri-pax.si
+  - name: Dveri Pax DE
+    url: https://dveri-pax.de
+  - name: Dveri Pax COM
+    url: https://dveri-pax.com
   - name: Admonter
     url: https://admonter.com
   - name: Admonter Shop
     url: https://shop.admonter.com
   - name: Mission Austria
     url: https://mission-austria.at
-  - name: Gesäuse
-    url: https://gesaeuse.at
   - name: Gesäuse Partner
     url: https://partner.gesaeuse.at
+  - name: ConstantlyK Shop
+    url: https://cyk-shop.com
+  - name: Nationalpark Gesäuse
+    url: https://nationalpark-gesaeuse.at
+  - name: Nationalpark Gesäuse
+    url: https://nationalpark-gesaeuse.at
+  - name: STIA Immo
+    url: https://stiaimmo.at
+  - name: Stift Admont
+    url: https://stiftadmont.at
+  - name: Warda
+    url: https://warda.at
+  - name: Warda Media
+    url: https://warda.media
+  - name: RML
+    url: https://region-liezen.at
 
 assignees: # Users to assign downtime issues (optional)
   - codingtub
