@@ -288,19 +288,19 @@
     "url": "https://stiftadmont.at",
     "icon": "https://favicons.githubusercontent.com/stiftadmont.at",
     "slug": "stift-admont",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2011,
-    "timeDay": 1289,
-    "timeWeek": 2011,
-    "timeMonth": 2011,
-    "timeYear": 2011,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 2017,
+    "timeDay": 1549,
+    "timeWeek": 2017,
+    "timeMonth": 2017,
+    "timeYear": 2017,
     "dailyMinutesDown": {
-      "2021-10-22": 0
+      "2021-10-22": 13
     }
   },
   {
