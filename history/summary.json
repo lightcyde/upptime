@@ -54,7 +54,6 @@
     "timeMonth": 880,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2021-09-13": 7,
       "2020-12-15": 91
     }
   },
@@ -75,7 +74,6 @@
     "timeMonth": 781,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2021-09-13": 7,
       "2021-08-03": 9,
       "2020-11-27": 2
     }
@@ -103,18 +101,20 @@
     "url": "https://dveri-pax.com",
     "icon": "https://favicons.githubusercontent.com/dveri-pax.com",
     "slug": "dveri-pax-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 828,
-    "timeWeek": 881,
-    "timeMonth": 886,
-    "timeYear": 886,
-    "dailyMinutesDown": {}
+    "time": 880,
+    "timeDay": 789,
+    "timeWeek": 865,
+    "timeMonth": 880,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2021-11-08": 0
+    }
   },
   {
     "name": "Admonter",
