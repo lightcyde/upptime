@@ -101,19 +101,19 @@
     "url": "https://dveri-pax.com",
     "icon": "https://favicons.githubusercontent.com/dveri-pax.com",
     "slug": "dveri-pax-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 880,
-    "timeDay": 789,
+    "timeDay": 815,
     "timeWeek": 865,
     "timeMonth": 880,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2021-11-08": 0
+      "2021-11-08": 27
     }
   },
   {
