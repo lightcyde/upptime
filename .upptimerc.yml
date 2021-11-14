@@ -42,7 +42,7 @@ sites:
     url: https://region-liezen.at
 
 assignees: # Users to assign downtime issues (optional)
-  - codingtub
+  - mueslirieger
   - MattFisch
 
 status-website:
