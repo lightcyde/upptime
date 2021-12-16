@@ -22,10 +22,10 @@
     "url": "https://discover-culture.com",
     "icon": "https://favicons.githubusercontent.com/discover-culture.com",
     "slug": "discover-culture",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1665,
@@ -33,7 +33,9 @@
     "timeWeek": 1416,
     "timeMonth": 1585,
     "timeYear": 1665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 2
+    }
   },
   {
     "name": "Dveri Pax AT",
