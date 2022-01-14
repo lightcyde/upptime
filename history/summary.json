@@ -187,7 +187,7 @@
     "icon": "https://favicons.githubusercontent.com/partner.gesaeuse.at",
     "slug": "gesaeuse-partner",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -297,10 +297,10 @@
     "url": "https://warda.at",
     "icon": "https://favicons.githubusercontent.com/warda.at",
     "slug": "warda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 948,
@@ -308,16 +308,18 @@
     "timeWeek": 754,
     "timeMonth": 837,
     "timeYear": 948,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 1
+    }
   },
   {
     "name": "Warda Media",
     "url": "https://warda.media",
     "icon": "https://favicons.githubusercontent.com/warda.media",
     "slug": "warda-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -326,7 +328,9 @@
     "timeWeek": 828,
     "timeMonth": 801,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 0
+    }
   },
   {
     "name": "RML",
