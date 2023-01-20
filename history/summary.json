@@ -311,9 +311,9 @@
     "slug": "gesaeuse-partner",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "51.40%",
-    "uptimeMonth": "88.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "51.47%",
+    "uptimeMonth": "88.83%",
     "uptimeYear": "97.48%",
     "time": 759,
     "timeDay": 1450,
@@ -321,7 +321,6 @@
     "timeMonth": 639,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2023-01-19": 7,
       "2023-01-16": 584,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
@@ -465,9 +464,9 @@
     "slug": "warda-media",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 825,
     "timeDay": 977,
@@ -475,7 +474,6 @@
     "timeMonth": 745,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-01-19": 7,
       "2022-09-15": 34,
       "2022-03-11": 30
     }
