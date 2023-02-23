@@ -67,7 +67,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.68%",
+    "uptimeYear": "97.77%",
     "time": 972,
     "timeDay": 1985,
     "timeWeek": 658,
@@ -105,7 +105,7 @@
     "timeDay": 3500,
     "timeWeek": 963,
     "timeMonth": 825,
-    "timeYear": 864,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2023-01-27": 19,
       "2022-10-25": 38,
@@ -165,12 +165,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.96%",
     "time": 899,
     "timeDay": 5733,
     "timeWeek": 1079,
     "timeMonth": 915,
-    "timeYear": 905,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2023-01-27": 19,
       "2022-10-25": 37,
@@ -218,7 +218,7 @@
     "time": 979,
     "timeDay": 764,
     "timeWeek": 748,
-    "timeMonth": 1223,
+    "timeMonth": 1064,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2023-01-27": 19,
@@ -392,7 +392,7 @@
     "time": 946,
     "timeDay": 310,
     "timeWeek": 432,
-    "timeMonth": 701,
+    "timeMonth": 670,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2023-01-31": 212,
@@ -407,10 +407,10 @@
     "url": "https://warda.media",
     "icon": "https://icons.duckduckgo.com/ip3/warda.media.ico",
     "slug": "warda-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 828,
@@ -419,6 +419,7 @@
     "timeMonth": 925,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2023-02-23": 1,
       "2022-09-15": 34,
       "2022-03-11": 30
     }
