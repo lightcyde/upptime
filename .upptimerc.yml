@@ -38,6 +38,8 @@ sites:
     url: https://warda.media
   - name: RML
     url: https://region-liezen.at
+  - name: SA Cluster
+    url: https://kaiserau.at
   - name: S3 FTP Server
     check: "tcp-ping"
     url: 167.235.62.202
