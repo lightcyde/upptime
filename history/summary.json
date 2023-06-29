@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 696,
-    "timeDay": 552,
-    "timeWeek": 348,
-    "timeMonth": 413,
-    "timeYear": 648,
+    "uptimeYear": "99.90%",
+    "time": 695,
+    "timeDay": 335,
+    "timeWeek": 357,
+    "timeMonth": 417,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2022-10-25": 38,
       "2022-08-04": 23,
-      "2022-06-30": 25,
-      "2022-06-29": 452
+      "2022-06-30": 25
     }
   },
   {
@@ -28,19 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/discover-culture.com.ico",
     "slug": "discover-culture",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1455,
-    "timeDay": 885,
-    "timeWeek": 1045,
-    "timeMonth": 1073,
-    "timeYear": 1345,
+    "timeDay": 1518,
+    "timeWeek": 1041,
+    "timeMonth": 1083,
+    "timeYear": 1346,
     "dailyMinutesDown": {
-      "2022-06-30": 25,
-      "2022-06-29": 19
+      "2022-06-30": 25
     }
   },
   {
@@ -49,22 +47,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/dveri-pax.at.ico",
     "slug": "dveri-pax-at",
     "status": "up",
-    "uptime": "96.11%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
-    "time": 882,
-    "timeDay": 275,
-    "timeWeek": 663,
-    "timeMonth": 589,
-    "timeYear": 847,
+    "uptimeYear": "99.89%",
+    "time": 881,
+    "timeDay": 384,
+    "timeWeek": 648,
+    "timeMonth": 501,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2023-01-27": 20,
       "2022-10-25": 38,
       "2022-08-30": 42,
-      "2022-06-30": 25,
-      "2022-06-29": 475
+      "2022-06-30": 25
     }
   },
   {
@@ -77,17 +74,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 739,
-    "timeDay": 530,
-    "timeWeek": 255,
-    "timeMonth": 336,
-    "timeYear": 687,
+    "uptimeYear": "99.90%",
+    "time": 738,
+    "timeDay": 240,
+    "timeWeek": 263,
+    "timeMonth": 317,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2023-01-27": 19,
       "2022-10-25": 38,
-      "2022-06-30": 25,
-      "2022-06-29": 475
+      "2022-06-30": 25
     }
   },
   {
@@ -100,18 +96,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.89%",
     "time": 813,
-    "timeDay": 281,
-    "timeWeek": 245,
-    "timeMonth": 381,
-    "timeYear": 782,
+    "timeDay": 689,
+    "timeWeek": 319,
+    "timeMonth": 302,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2023-01-27": 19,
       "2022-10-25": 38,
       "2022-07-30": 15,
-      "2022-06-30": 25,
-      "2022-06-29": 475
+      "2022-06-30": 25
     }
   },
   {
@@ -120,22 +115,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/dveri-pax.com.ico",
     "slug": "dveri-pax-com",
     "status": "up",
-    "uptime": "95.62%",
+    "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 800,
-    "timeDay": 266,
-    "timeWeek": 296,
-    "timeMonth": 443,
-    "timeYear": 785,
+    "time": 799,
+    "timeDay": 466,
+    "timeWeek": 322,
+    "timeMonth": 291,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2023-01-27": 19,
       "2022-10-25": 37,
       "2022-08-30": 41,
-      "2022-06-30": 25,
-      "2022-06-29": 43
+      "2022-06-30": 25
     }
   },
   {
@@ -149,15 +143,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 707,
-    "timeDay": 171,
-    "timeWeek": 211,
-    "timeMonth": 222,
-    "timeYear": 663,
+    "time": 706,
+    "timeDay": 366,
+    "timeWeek": 220,
+    "timeMonth": 226,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2023-01-27": 19,
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -172,14 +165,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 969,
-    "timeDay": 382,
-    "timeWeek": 450,
-    "timeMonth": 527,
-    "timeYear": 988,
+    "timeDay": 607,
+    "timeWeek": 442,
+    "timeMonth": 524,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2023-01-27": 19,
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -194,13 +186,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 759,
-    "timeDay": 405,
-    "timeWeek": 297,
-    "timeMonth": 305,
-    "timeYear": 701,
+    "timeDay": 638,
+    "timeWeek": 325,
+    "timeMonth": 314,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -214,11 +205,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.51%",
-    "time": 737,
-    "timeDay": 222,
-    "timeWeek": 600,
-    "timeMonth": 401,
-    "timeYear": 728,
+    "time": 739,
+    "timeDay": 1727,
+    "timeWeek": 836,
+    "timeMonth": 448,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2023-01-16": 584,
       "2023-01-15": 1440,
@@ -246,13 +237,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 783,
-    "timeDay": 523,
-    "timeWeek": 616,
-    "timeMonth": 664,
-    "timeYear": 775,
+    "timeDay": 913,
+    "timeWeek": 637,
+    "timeMonth": 670,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -261,16 +251,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nationalpark-gesaeuse.at.ico",
     "slug": "nationalpark-gesaeuse",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.74%",
     "time": 848,
-    "timeDay": 354,
-    "timeWeek": 413,
-    "timeMonth": 477,
-    "timeYear": 808,
+    "timeDay": 498,
+    "timeWeek": 443,
+    "timeMonth": 476,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2023-03-31": 1428,
       "2023-03-30": 1440,
@@ -307,8 +297,7 @@
       "2022-12-07": 17,
       "2022-11-15": 39,
       "2022-09-05": 26,
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -317,16 +306,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stiaimmo.at.ico",
     "slug": "stia-immo",
     "status": "up",
-    "uptime": "89.69%",
+    "uptime": "89.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.56%",
     "time": 815,
-    "timeDay": 301,
-    "timeWeek": 549,
-    "timeMonth": 439,
-    "timeYear": 767,
+    "timeDay": 716,
+    "timeWeek": 599,
+    "timeMonth": 449,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2023-05-04": 802,
       "2023-05-03": 1440,
@@ -394,8 +383,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 57,
       "2022-10-25": 37,
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -409,11 +397,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1141,
-    "timeDay": 255,
-    "timeWeek": 374,
-    "timeMonth": 373,
-    "timeYear": 816,
+    "time": 1138,
+    "timeDay": 394,
+    "timeWeek": 362,
+    "timeMonth": 372,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2022-10-25": 37
     }
@@ -430,16 +418,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 807,
-    "timeDay": 260,
-    "timeWeek": 258,
-    "timeMonth": 305,
-    "timeYear": 756,
+    "timeDay": 440,
+    "timeWeek": 296,
+    "timeMonth": 309,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2023-04-27": 122,
       "2023-04-26": 633,
       "2023-01-31": 212,
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -453,11 +440,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 775,
-    "timeDay": 259,
-    "timeWeek": 312,
-    "timeMonth": 322,
-    "timeYear": 710,
+    "time": 777,
+    "timeDay": 1722,
+    "timeWeek": 549,
+    "timeMonth": 367,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2023-02-23": 19,
       "2022-09-15": 34
@@ -474,17 +461,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1046,
-    "timeDay": 659,
-    "timeWeek": 871,
-    "timeMonth": 950,
+    "time": 1047,
+    "timeDay": 1153,
+    "timeWeek": 864,
+    "timeMonth": 958,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2023-04-12": 21,
       "2022-10-25": 36,
       "2022-08-24": 25,
-      "2022-06-30": 25,
-      "2022-06-29": 20
+      "2022-06-30": 25
     }
   },
   {
@@ -493,16 +479,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaiserau.at.ico",
     "slug": "sa-cluster",
     "status": "up",
-    "uptime": "89.79%",
+    "uptime": "89.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.11%",
-    "uptimeYear": "89.79%",
-    "time": 1861,
-    "timeDay": 1308,
-    "timeWeek": 1739,
-    "timeMonth": 1629,
-    "timeYear": 1861,
+    "uptimeMonth": "75.39%",
+    "uptimeYear": "89.87%",
+    "time": 1862,
+    "timeDay": 2058,
+    "timeWeek": 1709,
+    "timeMonth": 1650,
+    "timeYear": 1862,
     "dailyMinutesDown": {
       "2023-06-05": 709,
       "2023-06-04": 1440,
@@ -533,8 +519,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 90,
-    "timeWeek": 111,
+    "timeDay": 145,
+    "timeWeek": 109,
     "timeMonth": 110,
     "timeYear": 115,
     "dailyMinutesDown": {
