@@ -219,19 +219,19 @@
     "url": "https://cyk-shop.com",
     "icon": "https://icons.duckduckgo.com/ip3/cyk-shop.com.ico",
     "slug": "constantly-k-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 777,
-    "timeDay": 580,
-    "timeWeek": 724,
+    "timeDay": 646,
+    "timeWeek": 722,
     "timeMonth": 709,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2023-07-20": 1
+      "2023-07-20": 9
     }
   },
   {
@@ -466,7 +466,7 @@
     "slug": "sa-cluster",
     "status": "up",
     "uptime": "91.22%",
-    "uptimeDay": "95.93%",
+    "uptimeDay": "96.54%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "91.22%",
