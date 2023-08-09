@@ -217,18 +217,20 @@
     "url": "https://cyk-shop.com",
     "icon": "https://icons.duckduckgo.com/ip3/cyk-shop.com.ico",
     "slug": "constantly-k-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
+    "time": 776,
     "timeDay": 1427,
     "timeWeek": 815,
     "timeMonth": 724,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-09": 1
+    }
   },
   {
     "name": "Nationalpark Gesäuse",
@@ -236,7 +238,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nationalpark-gesaeuse.at.ico",
     "slug": "nationalpark-gesaeuse",
     "status": "up",
-    "uptime": "95.42%",
+    "uptime": "95.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
