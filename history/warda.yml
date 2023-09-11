@@ -1,7 +1,7 @@
 url: https://warda.at
-status: up
-code: 200
-responseTime: 276
-lastUpdated: 2023-09-10T23:01:29.082Z
+status: down
+code: 500
+responseTime: 2658
+lastUpdated: 2023-09-11T11:45:59.700Z
 startTime: 2021-10-18T08:07:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
