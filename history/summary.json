@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 585,
-    "timeDay": 557,
-    "timeWeek": 347,
-    "timeMonth": 316,
-    "timeYear": 487,
-    "dailyMinutesDown": {
-      "2022-10-25": 38
-    }
+    "time": 584,
+    "timeDay": 176,
+    "timeWeek": 342,
+    "timeMonth": 311,
+    "timeYear": 485,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discover Culture",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1334,
-    "timeDay": 731,
-    "timeWeek": 1409,
-    "timeMonth": 1266,
-    "timeYear": 1287,
+    "time": 1340,
+    "timeDay": 3860,
+    "timeWeek": 1788,
+    "timeMonth": 1354,
+    "timeYear": 1295,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dveri-pax.at.ico",
     "slug": "dveri-pax-at",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 773,
-    "timeDay": 346,
-    "timeWeek": 474,
-    "timeMonth": 423,
-    "timeYear": 690,
+    "time": 767,
+    "timeDay": 335,
+    "timeWeek": 368,
+    "timeMonth": 419,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-01-27": 20,
-      "2022-10-25": 38
+      "2023-01-27": 20
     }
   },
   {
@@ -70,13 +67,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 610,
-    "timeDay": 159,
-    "timeWeek": 301,
-    "timeMonth": 310,
-    "timeYear": 533,
+    "timeDay": 601,
+    "timeWeek": 303,
+    "timeMonth": 320,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-01-27": 19,
-      "2022-10-25": 38
+      "2023-01-27": 19
     }
   },
   {
@@ -91,13 +87,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 690,
-    "timeDay": 269,
-    "timeWeek": 400,
-    "timeMonth": 344,
-    "timeYear": 610,
+    "timeDay": 330,
+    "timeWeek": 293,
+    "timeMonth": 342,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2023-01-27": 19,
-      "2022-10-25": 38
+      "2023-01-27": 19
     }
   },
   {
@@ -106,19 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dveri-pax.com.ico",
     "slug": "dveri-pax-com",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 684,
-    "timeDay": 308,
-    "timeWeek": 398,
-    "timeMonth": 343,
-    "timeYear": 590,
+    "timeDay": 244,
+    "timeWeek": 293,
+    "timeMonth": 337,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2023-01-27": 19,
-      "2022-10-25": 37
+      "2023-01-27": 19
     }
   },
   {
@@ -132,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 258,
-    "timeWeek": 234,
-    "timeMonth": 241,
-    "timeYear": 465,
+    "time": 561,
+    "timeDay": 239,
+    "timeWeek": 242,
+    "timeMonth": 236,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2023-01-27": 19
     }
@@ -152,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 879,
-    "timeDay": 495,
-    "timeWeek": 584,
-    "timeMonth": 598,
-    "timeYear": 841,
+    "time": 878,
+    "timeDay": 346,
+    "timeWeek": 550,
+    "timeMonth": 591,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2023-09-28": 26,
       "2023-01-27": 19
@@ -173,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 299,
-    "timeWeek": 308,
-    "timeMonth": 276,
-    "timeYear": 507,
+    "time": 612,
+    "timeDay": 281,
+    "timeWeek": 305,
+    "timeMonth": 277,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   },
   {
@@ -191,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.51%",
-    "time": 684,
-    "timeDay": 137,
-    "timeWeek": 244,
-    "timeMonth": 601,
-    "timeYear": 633,
+    "time": 683,
+    "timeDay": 265,
+    "timeWeek": 252,
+    "timeMonth": 604,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-01-16": 584,
       "2023-01-15": 1440,
@@ -219,12 +213,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 776,
-    "timeDay": 620,
-    "timeWeek": 658,
-    "timeMonth": 708,
+    "time": 774,
+    "timeDay": 518,
+    "timeWeek": 609,
+    "timeMonth": 680,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2023-09-24": 58,
@@ -242,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.75%",
-    "time": 747,
-    "timeDay": 2032,
-    "timeWeek": 789,
-    "timeMonth": 517,
-    "timeYear": 636,
+    "time": 745,
+    "timeDay": 373,
+    "timeWeek": 781,
+    "timeMonth": 515,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2023-07-04": 48,
       "2023-03-31": 1428,
@@ -291,16 +285,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stiaimmo.at.ico",
     "slug": "stia-immo",
     "status": "up",
-    "uptime": "91.35%",
+    "uptime": "91.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.57%",
-    "time": 686,
-    "timeDay": 443,
-    "timeWeek": 459,
-    "timeMonth": 463,
-    "timeYear": 590,
+    "time": 685,
+    "timeDay": 348,
+    "timeWeek": 448,
+    "timeMonth": 449,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2023-05-04": 802,
       "2023-05-03": 1440,
@@ -366,8 +360,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 57,
-      "2022-10-25": 37
+      "2023-03-01": 57
     }
   },
   {
@@ -381,14 +374,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 753,
-    "timeDay": 336,
-    "timeWeek": 376,
-    "timeMonth": 409,
-    "timeYear": 611,
-    "dailyMinutesDown": {
-      "2022-10-25": 37
-    }
+    "time": 751,
+    "timeDay": 371,
+    "timeWeek": 355,
+    "timeMonth": 404,
+    "timeYear": 567,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Warda",
@@ -401,11 +392,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 650,
-    "timeDay": 302,
-    "timeWeek": 282,
-    "timeMonth": 286,
-    "timeYear": 536,
+    "time": 648,
+    "timeDay": 183,
+    "timeWeek": 245,
+    "timeMonth": 279,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2023-09-11": 42,
       "2023-04-27": 122,
@@ -425,9 +416,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 685,
-    "timeDay": 156,
-    "timeWeek": 700,
-    "timeMonth": 647,
+    "timeDay": 40,
+    "timeWeek": 677,
+    "timeMonth": 643,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2023-08-20": 943,
@@ -451,13 +442,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1052,
-    "timeDay": 766,
-    "timeWeek": 888,
-    "timeMonth": 964,
-    "timeYear": 1049,
+    "timeDay": 896,
+    "timeWeek": 878,
+    "timeMonth": 958,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-04-12": 21,
-      "2022-10-25": 36
+      "2023-04-12": 21
     }
   },
   {
@@ -466,16 +456,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kaiserau.at.ico",
     "slug": "sa-cluster",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.55%",
-    "time": 1742,
-    "timeDay": 708,
-    "timeWeek": 2208,
-    "timeMonth": 1353,
-    "timeYear": 1742,
+    "uptimeYear": "94.58%",
+    "time": 1737,
+    "timeDay": 574,
+    "timeWeek": 2182,
+    "timeMonth": 1300,
+    "timeYear": 1737,
     "dailyMinutesDown": {
       "2023-09-01": 438,
       "2023-08-31": 27,
@@ -510,8 +500,8 @@
     "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 90,
-    "timeWeek": 106,
-    "timeMonth": 115,
+    "timeWeek": 101,
+    "timeMonth": 114,
     "timeYear": 117,
     "dailyMinutesDown": {}
   }
