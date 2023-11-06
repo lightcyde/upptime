@@ -39,7 +39,7 @@ sites:
   - name: RML
     url: https://region-liezen.at
   - name: SA Cluster
-    url: https://kaiserau.at
+    url: https://www.gesundheitszentrum-admont.at
   - name: S3 FTP Server
     check: "tcp-ping"
     url: 167.235.62.202
