@@ -1,7 +1,7 @@
 url: https://stiftadmont.at
-status: up
-code: 200
-responseTime: 315
-lastUpdated: 2023-11-09T23:01:21.620Z
+status: down
+code: 500
+responseTime: 875
+lastUpdated: 2023-11-10T10:31:10.441Z
 startTime: 2021-10-18T08:07:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
