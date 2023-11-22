@@ -1,7 +1,7 @@
 url: https://www.gesundheitszentrum-admont.at
-status: up
-code: 200
-responseTime: 870
-lastUpdated: 2023-11-21T23:01:27.765Z
+status: down
+code: 500
+responseTime: 502
+lastUpdated: 2023-11-22T12:11:34.769Z
 startTime: 2023-02-23T13:08:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
