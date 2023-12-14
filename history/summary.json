@@ -293,7 +293,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stiaimmo.at.ico",
     "slug": "stia-immo",
     "status": "up",
-    "uptime": "91.90%",
+    "uptime": "91.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -470,7 +470,7 @@
     "slug": "sa-cluster",
     "status": "up",
     "uptime": "95.21%",
-    "uptimeDay": "70.66%",
+    "uptimeDay": "71.77%",
     "uptimeWeek": "88.57%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "95.21%",
@@ -509,10 +509,10 @@
     "url": "167.235.62.202",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s3-ftp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
@@ -520,6 +520,8 @@
     "timeWeek": 107,
     "timeMonth": 105,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   }
 ]
