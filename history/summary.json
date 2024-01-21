@@ -194,19 +194,19 @@
     "url": "https://partner.gesaeuse.at",
     "icon": "https://icons.duckduckgo.com/ip3/partner.gesaeuse.at.ico",
     "slug": "gesaeuse-partner",
-    "status": "down",
+    "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 818,
-    "timeWeek": 714,
-    "timeMonth": 568,
-    "timeYear": 639,
+    "time": 652,
+    "timeDay": 1062,
+    "timeWeek": 807,
+    "timeMonth": 598,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2024-01-21": 1
+      "2024-01-21": 11
     }
   },
   {
