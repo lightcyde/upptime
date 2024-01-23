@@ -1,7 +1,7 @@
 url: https://shop.admonter.com
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2024-01-22T23:01:19.758Z
+status: down
+code: 500
+responseTime: 16486
+lastUpdated: 2024-01-23T13:54:34.696Z
 startTime: 2021-01-05T18:16:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
