@@ -14,16 +14,14 @@ sites:
     url: https://dveri-pax.si
   - name: Dveri Pax DE
     url: https://dveri-pax.de
-  - name: Dveri Pax COM
-    url: https://dveri-pax.com
   - name: Admonter
     url: https://admonter.com
   - name: Admonter Shop
     url: https://shop.admonter.com
   - name: Mission Austria
     url: https://mission-austria.at
-  - name: Gesäuse Partner
-    url: https://partner.gesaeuse.at
+  - name: Gesäuse Betriebe
+    url: https://betriebe.gesaeuse.at
   - name: ConstantlyK Shop
     url: https://cyk-shop.com
   - name: Nationalpark Gesäuse
@@ -34,8 +32,6 @@ sites:
     url: https://stiftadmont.at
   - name: Warda
     url: https://warda.at
-  - name: Warda Media
-    url: https://warda.media
   - name: RML
     url: https://region-liezen.at
   - name: SA Cluster
