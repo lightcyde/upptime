@@ -42,7 +42,6 @@ sites:
     port: 21
     
 assignees: # Users to assign downtime issues (optional)
-  - mueslirieger
   - MattFisch
 
 status-website:
