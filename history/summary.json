@@ -4,10 +4,10 @@
     "url": "https://lightcyde.agency",
     "icon": "https://icons.duckduckgo.com/ip3/lightcyde.agency.ico",
     "slug": "light-cyde",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
@@ -16,6 +16,7 @@
     "timeMonth": 401,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2024-10-04": 1,
       "2023-10-30": 19
     }
   },
@@ -44,18 +45,19 @@
     "url": "https://dveri-pax.at",
     "icon": "https://icons.duckduckgo.com/ip3/dveri-pax.at.ico",
     "slug": "dveri-pax-at",
-    "status": "up",
+    "status": "down",
     "uptime": "97.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 772,
+    "time": 773,
     "timeDay": 939,
     "timeWeek": 1010,
     "timeMonth": 1269,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2024-10-04": 1,
       "2024-03-26": 22,
       "2023-10-30": 19
     }
