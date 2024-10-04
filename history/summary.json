@@ -6,17 +6,16 @@
     "slug": "light-cyde",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 351,
     "timeDay": 384,
     "timeWeek": 357,
     "timeMonth": 406,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-10-04": 15,
       "2023-10-30": 19
     }
   },
@@ -47,9 +46,9 @@
     "slug": "dveri-pax-at",
     "status": "up",
     "uptime": "97.43%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 775,
     "timeDay": 989,
@@ -57,7 +56,6 @@
     "timeMonth": 1263,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2024-10-04": 14,
       "2024-03-26": 22,
       "2023-10-30": 19
     }
@@ -215,18 +213,19 @@
     "url": "https://stiaimmo.at",
     "icon": "https://icons.duckduckgo.com/ip3/stiaimmo.at.ico",
     "slug": "stia-immo",
-    "status": "up",
+    "status": "down",
     "uptime": "94.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
+    "time": 442,
     "timeDay": 428,
     "timeWeek": 503,
     "timeMonth": 535,
     "timeYear": 447,
     "dailyMinutesDown": {
+      "2024-10-04": 0,
       "2023-10-30": 19
     }
   },
